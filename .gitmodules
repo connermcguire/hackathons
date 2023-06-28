@@ -1,0 +1,6 @@
+[submodule "greenfluence-nextjs"]
+	path = greenfluence-nextjs
+	url = https://github.com/connermcguire/greenfluence-nextjs
+[submodule "greenfluence-ui"]
+	path = greenfluence-ui
+	url = https://github.com/connermcguire/greenfluence-ui
