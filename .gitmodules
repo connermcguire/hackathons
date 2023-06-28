@@ -4,3 +4,6 @@
 [submodule "greenfluence-ui"]
 	path = greenfluence-ui
 	url = https://github.com/connermcguire/greenfluence-ui
+[submodule "caravan"]
+	path = caravan
+	url = C:/Program Files/Git/Documents/Dev-Projects/hackathons/caravan
